@@ -1,2 +1,2 @@
 # tictactoe-java
-A Java game of TicTacToe created to training the language
+A Java game of TicTacToe created to practice the language
